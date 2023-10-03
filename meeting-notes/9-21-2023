@@ -1,0 +1,18 @@
+Meeting notes for September 21
+
+Agenda
+
+* glmnet and glm implementation in sklearn
+* creating a simple wrapper function to receive a generic glm input and call glm in sklearn or glmnet appropriately
+* running a testbench for different size data to see which version works better
+* Create branches and pull requests in github.
+
+Notes
+
+https://stats.stackexchange.com/questions/347051/what-is-the-difference-between-lasso-regression-in-glmnet-in-r-and-sklearn-las
+
+Next steps
+
+* @atul to create github repo for python utilities
+* @Emily Xie to create the callGLM function to call sklearn and glmnet and perform testbench analysis.
+
